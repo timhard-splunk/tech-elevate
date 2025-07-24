@@ -1,0 +1,21 @@
+baseURL = "https://timhard-splunk.github.io/tech-elevate/"
+languageCode = "en-us"
+title = "Digital Resilience: Unified Observability Workshop"
+theme = "hugo-story"
+copyright = "2025"
+
+relativeURLs = true
+publishDir = "public"
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+
+[Params]
+  description = "Workshop details for the for the Showing Observability Use Cases with Confidence session at Tech Elevate"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]

@@ -1,0 +1,10 @@
+####################### Banner #########################
+style: "style2 orient-center content-align-center image-position-center fullscreen onload-image-fade-in invert onload-content-fade-right"
+title : "Digital Resilience: Unified Observability Workshop" 
+content : |
+  Welcome to the <strong>Unified Observability Workshop</strong> for the <strong>Showing Observability Use Cases with Confidence</strong> session at <strong>Tech Elevate<strong>. This guide provides details on how to access the workshop content.
+button:
+  label : "Get Started"
+  link : "#workshop"
+image : "images/service-view.png"
+

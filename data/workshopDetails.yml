@@ -1,0 +1,13 @@
+title : "Workshop Details"
+id: "workshop"
+content: |
+  This <strong>Workshop</strong> includes two primary components
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Click-through Demo"
+    content : "The click-through demo will be used to guide you through the product while providing important information about differentiated functionality and key components"
+    style : "style2 major fa-gem"
+  - name : "CTF Platform"
+    content : "The Cisco CTF platform will be used to answer questions about the demo and troubleshooting workflow."
+    style : "style2 major fa-gem"
