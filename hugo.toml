@@ -4,7 +4,9 @@ title = "Digital Resilience: Unified Observability Workshop"
 theme = "hugo-story"
 copyright = "2025"
 
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = true 
+
 publishDir = "public"
 
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
