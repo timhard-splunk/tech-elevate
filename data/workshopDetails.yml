@@ -1,7 +1,7 @@
 title : "Workshop Details"
 id: "workshop"
 content: |
-  This <strong>Workshop</strong> will use the Cisco Capture the Flag environment along with a <a href="https://cisco-full-stack-observability.navattic.com/ju5h05kb" target="_blank">click-through demo</a>. Follow the link for your session below to access the CTF Event. Accessing the demo environment will also be available in the CTF Mission Details. 
+  This <strong>Workshop</strong> will use the Cisco Capture the Flag environment along with a <a href="https://cisco-full-stack-observability.navattic.com/ju5h05kb" target="_blank">click-through demo</a>. Follow the link for your session below to access the CTF Event. Details on how to access the click-through demo environment will be in the Mission Details. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
