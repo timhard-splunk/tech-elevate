@@ -1,13 +1,31 @@
 title : "Workshop Details"
 id: "workshop"
 content: |
-  This <strong>Workshop</strong> includes two primary components
+  This <strong>Workshop</strong> will use the Cisco Capture the Flag environment along with a <a href="https://cisco-full-stack-observability.navattic.com/ju5h05kb" target="_blank">click-through demo</a>. Follow the link for your session below to access the CTF Event. Accessing the demo environment will also be available in the CTF Mission Details. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Click-through Demo"
-    content : "The click-through demo will be used to guide you through the product while providing important information about differentiated functionality and key components"
+  - name : "Session 1"
+    content : | 
+      Sunday August 24th
+      </br>
+      10:45AM - 12:45PM
+      </br>
+      <a href="https://tech-elevate-2025.ciscoctf.io/user/event/join?e=TE2025_OBSERV1&key=5c34318b-d9b2-4d74-bb96-818ed325593e" target="_blank">CTF Event Link</a>
     style : "style2 major fa-gem"
-  - name : "CTF Platform"
-    content : "The Cisco CTF platform will be used to answer questions about the demo and troubleshooting workflow."
+  - name : "Session 2"
+    content : | 
+      Sunday August 24th
+      </br>
+      1:30PM - 3:30PM
+      </br>
+      <a href="https://tech-elevate-2025.ciscoctf.io/user/event/join?e=TE2025_OBSERV2&key=d58289a5-95aa-478b-8aa1-345b030bbea1" target="_blank">CTF Event Link</a>
+    style : "style2 major fa-gem"
+  - name : "Session 3"
+    content : | 
+      Sunday August 24th
+      </br>
+      4:00PM - 6:00PM
+      </br>
+      <a href="https://tech-elevate-2025.ciscoctf.io/user/event/join?e=TE2025_OBSERV3&key=27132eb6-eb66-4dc0-804d-0d8bba1cae79" target="_blank">CTF Event Link</a>
     style : "style2 major fa-gem"
