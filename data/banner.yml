@@ -1,10 +1,10 @@
 ####################### Banner #########################
 style: "style2 orient-center content-align-center image-position-center fullscreen onload-image-fade-in invert onload-content-fade-right"
-title : "Digital Resilience: Unified Observability Workshop" 
+title : "Digital Resilience: Unified Observability" 
 content : |
-  Welcome to the <strong>Unified Observability Workshop</strong> for the <strong>Showing Observability Use Cases with Confidence</strong> session at <strong>Tech Elevate<strong>. This guide provides details on how to access the workshop content.
+  Welcome to the <strong>Digital Resilience: Unified Observability</strong> Demo. To access the click-through demo, click Get Started below.
 button:
   label : "Get Started"
-  link : "#workshop"
+  link : "https://cisco-full-stack-observability.navattic.com/ju5h05kb"
 image : "images/service-view.png"
 
